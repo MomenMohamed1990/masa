@@ -1,9 +1,5 @@
 flet
 datetime
 qrcode
-webbrowser
 subprocess
-platform
-uuid
 pywhatkit
-time
