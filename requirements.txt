@@ -1,7 +1,6 @@
 flet
 datetime
 qrcode
-json
 os
 webbrowser
 subprocess
